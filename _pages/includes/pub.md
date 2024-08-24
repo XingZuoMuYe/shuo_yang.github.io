@@ -21,10 +21,10 @@ In typical autonomous driving tasks, the proposed method achieves fast optimizat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS(under review)</div><img src='images/Overall_architecture_of_integrated_framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems](https://www.baidu.com/) \\
+[A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems](https://arxiv.org/abs/2408.12187) \\
 **Shuo Yang**, Liwen Wang, Yanjun Huang, Hong Chen
 
-[**Paper**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2408.12187) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 An end-to-end autonomous driving decision and control algorithm based on a hybrid Mechanism-Experience-Learning augmented approach is proposed. 
 
@@ -56,10 +56,10 @@ Simulation and real-vehicle results show that the proposed method can provide re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII(under review)</div><img src='images/Overall_architecture_SPI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model](https://www.baidu.com/) \\
+[A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model](https://arxiv.org/abs/2408.12190) \\
 **Shuo Yang**, Caojun Wang, Zhenyu Ma, Yanjun Huang, Hong Chen
 
-[**Paper**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2408.12190) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 This paper proposes a safety-oriented self-learning algorithm for autonomous driving, which focuses on how to achieve evolution from a basic model.
 
