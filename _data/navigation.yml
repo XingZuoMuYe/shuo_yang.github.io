@@ -4,7 +4,7 @@ main:
     url: "/shuo_yang.github.io/#about-me"
 
 
-- title: "Educations"
+  - title: "Educations"
     url: "/shuo_yang.github.io/#-educations"
 
   - title: "Publications"
