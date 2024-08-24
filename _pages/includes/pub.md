@@ -9,8 +9,6 @@
 [An Efficient Self-evolution Method of Autonomous Driving for Any Given Algorithm](https://ieeexplore.ieee.org/abstract/document/10239250) \\
 Yanjun Huang, **Shuo Yang**, Liwen Wang, Kang Yuan, Hongyu Zheng, Hong Chen
 
-[**Video**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
 An efficient self-evolution method for autonomous driving based on the combination of behavioral cloning and soft actor critic is proposed, which improves the convergence efficiency up to three times of the traditional algorithms by introducing a non-uniform mixed gradient feedback mechanism. 
 
 In typical autonomous driving tasks, the proposed method achieves fast optimization and iteration in dynamic traffic environments through adaptive gradient weight adjustment without sacrificing the exploration capability, and improves the performance by 20% compared to the baseline algorithm.
@@ -24,7 +22,7 @@ In typical autonomous driving tasks, the proposed method achieves fast optimizat
 [A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems](https://arxiv.org/abs/2408.12187) \\
 **Shuo Yang**, Liwen Wang, Yanjun Huang, Hong Chen
 
-[**Paper**](https://arxiv.org/pdf/2408.12187) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**pdf**](https://arxiv.org/pdf/2408.12187) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 An end-to-end autonomous driving decision and control algorithm based on a hybrid Mechanism-Experience-Learning augmented approach is proposed. 
 
@@ -43,7 +41,7 @@ Simulations and real-vehicle results demonstrate that the proposed method can ge
 
 **Shuo Yang**, Shizhen Li, Yanjun Huang, Hong Chen
 
-[**Paper**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**pdf**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 To address the safety-performance trade-off in safe self-learning algorithms and to avoid the negative impact of overly conservative safety constraints, a human risk perception-based attention mechanism model is proposed to quantify the risks in the surrounding environment. 
 
@@ -59,7 +57,7 @@ Simulation and real-vehicle results show that the proposed method can provide re
 [A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model](https://arxiv.org/abs/2408.12190) \\
 **Shuo Yang**, Caojun Wang, Zhenyu Ma, Yanjun Huang, Hong Chen
 
-[**Paper**](https://arxiv.org/pdf/2408.12190) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**pdf**](https://arxiv.org/pdf/2408.12190) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 This paper proposes a safety-oriented self-learning algorithm for autonomous driving, which focuses on how to achieve evolution from a basic model.
 
@@ -74,7 +72,7 @@ The proposed method is verified in a challenging mixed traffic environment with 
 [Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search](https://www.baidu.com/) \\
 **Shuo Yang**, Caojun Wang, Yuanjian Zhang, Yuming Yin, Yanjun Huang, Shengbo Eben Li, and Hong Chen
 
-[**Paper**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**pdf**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 This paper proposes a data-driven quantitative method to represent scenario difficulty. Compared with rule-based method, the proposed algorithm can achieve continuous difficulty representation.
 
