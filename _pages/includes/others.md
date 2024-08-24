@@ -16,7 +16,7 @@
   <iframe
     width="800"
     height="450"
-    src="//player.bilibili.com/player.html?aid=113016007821194&bvid="BV1RVWferE4u&cid=500001660576094&page=1"
+    src="//player.bilibili.com/player.html?aid=113016007821194&bvid=BV1RVWferE4u&cid=500001660576094&page=1"
     scrolling="no"
     border="0"
     frameborder="no"
@@ -25,16 +25,3 @@
   </iframe>
 </div>
 
-
-<div style="text-align:center;">
-  <iframe
-    width="800"
-    height="450"
-    src="//player.bilibili.com/player.html?aid=683633468&bvid=BV1jS4y1w7SW&cid=711074429&page=1"
-    scrolling="no"
-    border="0"
-    frameborder="no"
-    framespacing="0"
-    allowfullscreen="true">
-  </iframe>
-</div>
