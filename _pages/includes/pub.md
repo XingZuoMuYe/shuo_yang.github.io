@@ -37,11 +37,11 @@ Simulations and real-vehicle results demonstrate that the proposed method can ge
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAP(under review)</div><img src='images/Overall_architecture_SQR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model](https://www.baidu.com/) \\ 
+[A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model](https://arxiv.org/abs/2408.12805) \\ 
 
 **Shuo Yang**, Shizhen Li, Yanjun Huang, Hong Chen
 
-[**pdf**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**pdf**](https://arxiv.org/pdf/2408.12805) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 To address the safety-performance trade-off in safe self-learning algorithms and to avoid the negative impact of overly conservative safety constraints, a human risk perception-based attention mechanism model is proposed to quantify the risks in the surrounding environment. 
 
