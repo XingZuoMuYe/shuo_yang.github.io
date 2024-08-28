@@ -69,10 +69,10 @@ The proposed method is verified in a challenging mixed traffic environment with 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research(under review)</div><img src='images/Overall_architecture_SD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search](https://www.baidu.com/) \\
+[Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search](https://arxiv.org/abs/2408.14000) \\
 **Shuo Yang**, Caojun Wang, Yuanjian Zhang, Yuming Yin, Yanjun Huang, Shengbo Eben Li, and Hong Chen
 
-[**pdf**](https://www.baidu.com/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**pdf**](https://arxiv.org/pdf/2408.14000) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 This paper proposes a data-driven quantitative method to represent scenario difficulty. Compared with rule-based method, the proposed algorithm can achieve continuous difficulty representation.
 
